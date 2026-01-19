@@ -8,3 +8,7 @@ title: Home
 <p>My github pages.</p>
 
 <p>I hope you like it. It's half done though.</p>
+
+{% for post in site.posts %}
+  <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+{% endfor %}
