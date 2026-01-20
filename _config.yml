@@ -4,5 +4,5 @@ description: proffessionally an idiot
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
-  remote_theme: ImgTypeTiff/jekyll-tiff-simple-dark
+remote_theme: ImgTypeTiff/jekyll-tiff-simple-dark
 paginate: 5
