@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 title: tiffany's git-pages
 description: proffessionally an idiot
-remote_theme: son-link/jekyll-simple-dark
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
+  remote_theme: ImgTypeTiff/jekyll-tiff-simple-dark
 paginate: 5
