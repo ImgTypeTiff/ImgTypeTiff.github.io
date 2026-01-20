@@ -5,3 +5,4 @@ remote_theme: son-link/jekyll-simple-dark
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
+paginate: 5
