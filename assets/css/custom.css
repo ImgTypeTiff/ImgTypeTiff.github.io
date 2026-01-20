@@ -4,9 +4,8 @@
 
 h3 {
   display: block;
-  font-size: 1.1rem;
-  background: #0b0f14;
-  border-left: 4px solid #22c55e;
-  padding: 1rem;
-  margin: 1.5rem 0;
+  font-size: 25px
+}
+body {
+  outline: 2px solid red;
 }
