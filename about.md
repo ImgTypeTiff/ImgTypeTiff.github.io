@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-under construction
+The tiffany blog of all time.
